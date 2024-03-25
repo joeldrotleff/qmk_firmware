@@ -55,6 +55,7 @@
 
         // Layer 1
         [
+            // Row 1
             "KC_EXLM",
             "KC_AT",
             "KC_HASH",
@@ -129,10 +130,12 @@
             "KC_NO",
             "KC_NO",
             "KC_TRNS",
+
+            // Cmd-Tab to navigate between windows
             "KC_TRNS",
-            "KC_TRNS",
-            "KC_TRNS",
-            "KC_TRNS",
+            "KC_LEFT_GUI",
+            "KC_GRAVE",
+            "KC_TAB",
             "KC_TRNS",
 
             // Thumb keys row
