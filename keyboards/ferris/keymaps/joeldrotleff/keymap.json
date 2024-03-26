@@ -1,0 +1,149 @@
+{
+    "version": 1,
+    "notes": "",
+    "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+    "keyboard": "ferris/sweep",
+    "keymap": "ferris_sweep_layout_split_3x5_2_mine",
+    "layout": "LAYOUT_split_3x5_2",
+    "layers": [
+
+        // Layer 0
+        [
+            // First row
+            "KC_Q",
+            "KC_W",
+            "KC_E",
+            "KC_R",
+            "KC_T",
+            "KC_Y",
+            "KC_U",
+            "KC_I",
+            "KC_O",
+            "KC_P",
+
+
+            // Second row
+            "MT(MOD_LCTL, KC_A)",
+            "MT(MOD_LALT, KC_S)",
+            "MT(MOD_LGUI, KC_D)",
+            "MT(MOD_LSFT, KC_F)",
+            "KC_G",
+            "KC_H",
+            "MT(MOD_RSFT, KC_J)",
+            "MT(MOD_RGUI, KC_K)",
+            "MT(MOD_RALT, KC_L)",
+            "MT(MOD_RCTL, KC_SEMICOLON)",
+
+            // Third row
+            "KC_Z",
+            "KC_X",
+            "KC_C",
+            "KC_V",
+            "KC_B",
+            "KC_N",
+            "KC_M",
+            "KC_COMMA",
+            "KC_DOT",
+            "KC_SLSH",
+
+            // Thumb keys row
+            "LT(2,KC_ENTER)",
+            "OSL(1)",
+            "KC_SPC",
+            "LT(3,KC_ESC)"
+        ],
+
+        // Layer 1
+        [
+            // Row 1
+            "KC_EXLM",
+            "KC_AT",
+            "KC_HASH",
+            "KC_DLR",
+            "KC_PERC",
+            "KC_CIRC",
+            "KC_AMPR",
+            "KC_ASTR",
+            "KC_LPRN",
+            "KC_RPRN",
+
+            // Row 2
+            "MT(MOD_LCTL, KC_1)",
+            "MT(MOD_LALT, KC_2)",
+            "MT(MOD_LGUI, KC_3)",
+            "MT(MOD_LSFT, KC_4)",
+            "KC_5",
+            "KC_6",
+            "MT(MOD_RSFT, KC_7)",
+            "MT(MOD_RGUI, KC_8)",
+            "MT(MOD_RALT, KC_9)",
+            "MT(MOD_RCTL, KC_0)",
+
+            // Row 3
+            "KC_MINS",
+            "KC_EQL",
+            "KC_LCBR",
+            "KC_RCBR",
+            "KC_LBRC",
+            "KC_RBRC",
+            "KC_BSLS",
+            "KC_PIPE",
+            "KC_GRV",
+            "KC_TILD",
+
+            // Thumb keys row
+            "KC_TAB",
+            "KC_TRNS",
+            "KC_BACKSPACE",
+            "KC_TRNS"
+        ],
+
+        // Layer 2
+        [
+            // First row
+            "KC_TRNS",
+            "KC_MS_ACCEL0",
+            "KC_MS_ACCEL1",
+            "KC_MS_ACCEL2",
+            "KC_MS_BTN1",
+            "KC_MS_LEFT",
+            "KC_MS_DOWN",
+            "KC_MS_UP",
+            "KC_MS_RIGHT",
+            "KC_MS_LEFT",
+
+            // Second row
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_TRNS",
+            "KC_LEFT",
+            "KC_DOWN",
+            "KC_UP",
+            "KC_RGHT",
+            "KC_QUOTE",
+
+            // Third row
+            "KC_TRNS",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_TRNS",
+
+            // Cmd-Tab to navigate between windows
+            "KC_TRNS",
+            "KC_LEFT_GUI",
+            "KC_GRAVE",
+            "KC_TAB",
+            "KC_TRNS",
+
+            // Thumb keys row
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS"
+        ],
+    ],
+    "author": ""
+}
