@@ -34,6 +34,7 @@
             "MT(MOD_RALT, KC_L)",
             "MT(MOD_RCTL, KC_SEMICOLON)",
 
+
             // Third row
             "KC_Z",
             "KC_X",
@@ -47,27 +48,43 @@
             "KC_SLSH",
 
             // Thumb keys row
-            "LT(2,KC_ENTER)",
+            "OSL(2)",
             "OSL(1)",
-            "KC_SPC",
-            "LT(3,KC_ESC)"
+            "KC_SPACE",
+            "KC_ESC",
         ],
+
 
         // Layer 1
         [
+
             // Row 1
-            "KC_EXLM",
-            "KC_AT",
-            "KC_HASH",
-            "KC_DLR",
-            "KC_PERC",
-            "KC_CIRC",
-            "KC_AMPR",
-            "KC_ASTR",
-            "KC_LPRN",
-            "KC_RPRN",
+            "KC_GRAVE",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_MINUS",
+            "KC_PLUS",
+
 
             // Row 2
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_BACKSLASH",
+            "KC_LEFT_BRACKET",
+            "KC_RIGHT_BRACKET",
+
+
+            // Row 3
             "MT(MOD_LCTL, KC_1)",
             "MT(MOD_LALT, KC_2)",
             "MT(MOD_LGUI, KC_3)",
@@ -79,30 +96,20 @@
             "MT(MOD_RALT, KC_9)",
             "MT(MOD_RCTL, KC_0)",
 
-            // Row 3
-            "KC_MINS",
-            "KC_EQL",
-            "KC_LCBR",
-            "KC_RCBR",
-            "KC_LBRC",
-            "KC_RBRC",
-            "KC_BSLS",
-            "KC_PIPE",
-            "KC_GRV",
-            "KC_TILD",
 
             // Thumb keys row
-            "KC_TAB",
             "KC_TRNS",
-            "KC_BACKSPACE",
-            "KC_TRNS"
+            "KC_TRNS",
+            "KC_RETURN",
+            "KC_BACKSPACE"
         ],
+
 
         // Layer 2
         [
             // First row
-            "KC_TRNS",
-            "KC_MS_ACCEL0",
+            "KC_MS_WH_UP",
+            "KC_MS_WH_DOWN",
             "KC_MS_ACCEL1",
             "KC_MS_ACCEL2",
             "KC_MS_BTN1",
@@ -139,7 +146,7 @@
             "KC_TRNS",
 
             // Thumb keys row
-            "KC_TRNS",
+            "KC_TAB",
             "KC_TRNS",
             "KC_TRNS",
             "KC_TRNS"
