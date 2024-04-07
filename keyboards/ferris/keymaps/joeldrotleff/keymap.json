@@ -76,11 +76,11 @@
             "KC_LGUI",
             "KC_LSFT",
             "KC_TRNS",
-            "KC_TRNS",
-            "KC_LSFT",
-            "KC_LGUI",
-            "KC_LALT",
-            "KC_LCTL",
+            "KC_H",
+            "MT(MOD_LSFT, KC_J)",
+            "MT(MOD_RGUI, KC_K)",
+            "MT(MOD_RALT, KC_L)",
+            "KC_RCTL",
 
 
             // Row 3
