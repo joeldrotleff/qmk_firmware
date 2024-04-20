@@ -47,8 +47,8 @@
             "KC_SLSH",
 
             // Thumb keys row
-            "MO(2)",
-            "MO(1)",
+            "OSL(2)",
+            "OSL(1)",
             "KC_SPACE",
             "KC_ESC",
         ],
