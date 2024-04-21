@@ -47,7 +47,7 @@
             "KC_SLSH",
 
             // Thumb keys row
-            "OSL(2)",
+            "MO(2)",
             "OSL(1)",
             "KC_SPACE",
             "KC_ESC",
@@ -71,16 +71,16 @@
 
 
             // Row 2
-            "KC_LCTL",
-            "KC_LALT",
-            "KC_LGUI",
-            "KC_LSFT",
-            "KC_TRNS",
-            "KC_H",
-            "MT(MOD_LSFT, KC_J)",
-            "MT(MOD_RGUI, KC_K)",
-            "MT(MOD_RALT, KC_L)",
-            "KC_RCTL",
+            "KC_EXCLAIM",
+            "KC_AT",
+            "KC_HASH",
+            "KC_DOLLAR",
+            "KC_PERCENT",
+            "KC_CIRCUMFLEX",
+            "KC_AMPERSAND",
+            "KC_ASTERISK",
+            "KC_LEFT_PAREN",
+            "KC_RIGHT_PAREN",
 
 
             // Row 3
@@ -97,7 +97,7 @@
 
 
             // Thumb keys row
-            "KC_TRNS",
+            "KC_LSFT",
             "KC_TRNS",
             "KC_ENTER",
             "KC_BACKSPACE"
