@@ -50,7 +50,7 @@
             "MO(2)",
             "OSL(1)",
             "KC_SPACE",
-            "KC_ESC",
+            "OSM(MOD_LSFT)",
         ],
 
 
@@ -149,7 +149,7 @@
             "KC_TRNS",
             "KC_TRNS"
             "KC_TAB",
-            "KC_TRNS",
+            "KC_ESC",
         ],
     ],
     "author": ""
