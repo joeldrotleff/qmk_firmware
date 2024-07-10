@@ -39,6 +39,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define PERMISSIVE_HOLD
 
+// i.e. gives me "caps lock" by tapping shift key 3x
+#define ONESHOT_TAP_TOGGLE 3
+
+// I only ever use one shot mods when typing fast, so I think this can timeout
+// really quickly and still work fine
+#define ONESHOT_TIMEOUT 350
+
 // Underglow configuration
 #ifdef RGBLIGHT_ENABLE
 #    define RGBLIGHT_EFFECT_BREATHING
