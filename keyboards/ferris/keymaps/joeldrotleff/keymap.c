@@ -20,7 +20,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         // Thumb keys
         OSL(2), OSL(1), KC_SPACE, OSM(MOD_LSFT)),
 
-    // Layer 2
+    // Layer 1
 	[1] = LAYOUT_split_3x5_2(
         // Top row
         KC_GRAVE, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_BACKSLASH, KC_LEFT_BRACKET, KC_RIGHT_BRACKET, KC_MINUS, KC_EQUAL,
@@ -32,14 +32,17 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_TRNS, KC_TRNS, KC_ENTER, KC_BACKSPACE
     ),
 
-    // Layer 3
+    // Layer 2
     [2] = LAYOUT_split_3x5_2(
         // Top row
-        KC_MS_WH_UP, KC_MS_WH_DOWN, KC_TRNS, KC_TRNS, KC_MS_BTN2, KC_MS_LEFT, KC_MS_DOWN, KC_MS_UP, KC_MS_RIGHT, KC_MS_BTN1,
+        KC_TILDE, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_PIPE, KC_LEFT_CURLY_BRACE, KC_RIGHT_CURLY_BRACE, KC_UNDERSCORE, KC_KP_PLUS,
+
         // Middle row
         KC_LCTL, KC_LALT, KC_LGUI, KC_LSFT, KC_TRNS, MT(MOD_RSFT, KC_LEFT), MT(MOD_RGUI, KC_DOWN), MT(MOD_RALT, KC_UP), MT(MOD_RCTL, KC_RIGHT), KC_QUOTE,
+
         // Bottom row
-        MEH(KC_1), MEH(KC_2), MEH(KC_3), MEH(KC_4), MEH(KC_5), MEH(KC_6), KC_LEFT_GUI, KC_GRAVE, KC_TAB, KC_TRNS,
+        MEH(KC_1), MEH(KC_2), MEH(KC_3), MEH(KC_4), MEH(KC_5), MEH(KC_6), KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
+
         // Thumb keys
         KC_TRNS, KC_TRNS, KC_TAB, KC_ESC)
 };
