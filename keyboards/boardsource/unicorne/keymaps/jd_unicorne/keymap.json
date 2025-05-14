@@ -16,7 +16,7 @@
                                              "_______", "_______", "_______",       "_______", "_______", "_______"
         ],
         [
-            "QK_BOOT", "KC_TILD", "XXXXXXX", "XXXXXXX", "XXXXXXX", "KC_PIPE",       "KC_LCBR", "KC_RCBR", "KC_UNDS", "KC_PLUS", "XXXXXXX", "EE_CLR",
+            "QK_BOOT", "KC_TILD", "RGB_TOG", "XXXXXXX", "XXXXXXX", "KC_PIPE",       "KC_LCBR", "KC_RCBR", "KC_UNDS", "KC_PLUS", "XXXXXXX", "EE_CLR",
             "KC_LCTL", "KC_LALT", "KC_LGUI", "KC_LSFT", "XXXXXXX", "XXXXXXX",       "KC_LEFT", "KC_DOWN", "KC_UP",   "KC_RGHT", "KC_DQUO", "XXXXXXX",
             "MEH(KC_1)","MEH(KC_2)","MEH(KC_3)","MEH(KC_4)","MEH(KC_5)","MEH(KC_6)","KC_LGUI", "KC_GRV",  "KC_TAB",  "XXXXXXX", "XXXXXXX", "XXXXXXX",
                                              "_______", "_______", "KC_TAB",        "KC_ESC",  "_______", "_______"
