@@ -17,9 +17,11 @@
         ],
         [
             "QK_BOOT",   "QK_RGB_MATRIX_ON", "QK_UNDERGLOW_MODE_NEXT", "XXXXXXX",  "KC_PIPE",  "KC_LCBR",   "KC_RCBR",  "KC_UNDS",  "KC_PLUS",  "XXXXXXX",  "XXXXXXX",  "EE_CLR",
-            "KC_LCTL",   "KC_LALT",  "KC_LGUI",  "KC_LSFT",  "XXXXXXX",  "XXXXXXX",        "KC_LEFT",  "KC_DOWN",  "KC_UP",    "KC_RGHT",  "KC_DQUO",  "XXXXXXX",
-            "XXXXXXX",   "MEH(KC_1)", "MEH(KC_2)", "MEH(KC_3)", "MEH(KC_4)", "MEH(KC_5)",   "MEH(KC_6)", "XXXXXXX",  "XXXXXXX",  "XXXXXXX",  "XXXXXXX",  "XXXXXXX",
+            "KC_LCTL",   "MEH(KC_1)",  "MEH(KC_2)",  "MEH(KC_3)",  "MEH(KC_4)",  "MEH(KC_5)",  "KC_LEFT",  "KC_DOWN",  "KC_UP",    "KC_RGHT",  "KC_DQUO",  "XXXXXXX",
+            "XXXXXXX",   "MEH(KC_6)", "MEH(KC_7)", "MEH(KC_8)", "MEH(KC_9)", "MEH(KC_0)",   "XXXXXXX", "XXXXXXX",  "XXXXXXX",  "XXXXXXX",  "XXXXXXX",  "XXXXXXX",
                                                          "_______",  "_______",  "KC_TAB",           "KC_ESC",   "_______",  "_______"
         ]
     ]
 }
+
+
