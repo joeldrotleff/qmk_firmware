@@ -20,7 +20,7 @@
 
 
 		[
-				"QK_BOOTLOADER", "QK_RGB_MATRIX_ON", "QK_UNDERGLOW_MODE_NEXT", "_______", "_______", "_______", "KC_PIPE", "KC_LEFT_CURLY_BRACE", "KC_RIGHT_CURLY_BRACE", "KC_UNDERSCORE", "KC_KP_PLUS", "KC_BSPC",
+				"_______", "MEH(KC_7)", "MEH(KC_8)", "MEH(KC_9)", "QK_BOOTLOADER", "QK_RGB_MATRIX_ON", "QK_UNDERGLOW_MODE_NEXT", "KC_PIPE", "KC_LEFT_CURLY_BRACE", "KC_RIGHT_CURLY_BRACE", "KC_UNDERSCORE", "KC_KP_PLUS",
 				"_______", "_______", "_______", "_______", "_______", "_______", "KC_LEFT", "KC_DOWN", "KC_UP", "KC_RIGHT", "_______", "_______",
 				"_______", "MEH(KC_1)", "MEH(KC_2)", "MEH(KC_3)", "MEH(KC_4)", "MEH(KC_5)", "MEH(KC_6)", "KC_LCMD", "KC_GRAVE", "KC_TAB", "_______", "_______",
 																"_______", "_______", "_______", "KC_TAB", "KC_ESC", "_______"
